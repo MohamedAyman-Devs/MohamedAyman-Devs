@@ -89,14 +89,12 @@ Computer Science Student | Software Engineer in Progress | AI & Data Science Ent
 
 ---
 
-# 📌 Featured Projects
+## 🚀 Featured Projects
 
-🚧 **Telecom Customer Churn Prediction** *(Coming Soon)*
-
-🚧 **CCNA Labs** *(Coming Soon)*
-
-🚧 **Competitive Programming Solutions** *(Coming Soon)*
-
+> 🚧 **Projects are currently under development.**
+>
+> I am building high-quality software, networking, and AI projects.
+> They will be published here soon with complete documentation and source code.
 ---
 
 # 🎯 2026 Goals
