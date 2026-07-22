@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohamed Ayman
 
-<!--
-**MohamedAyman-Devs/MohamedAyman-Devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student at Higher Technological Institute (HTI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Software Development, Data Science, Artificial Intelligence, and Networking.
+
+🏆 Codeforces Specialist
+
+🚀 ICPC Contestant & Community Member
+
+🌐 Currently studying Cisco CCNA
+
+---
+
+## 🛠️ Languages & Tools
+
+- Python
+- C++
+- C
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- MySQL
+- Streamlit
+- Cisco Packet Tracer
+- Pandas
+- Scikit-learn
+
+---
+
+## 📌 Current Goals
+
+- Build high-quality software projects
+- Master Data Structures & Algorithms
+- Become an AI Engineer
+- Earn Cisco CCNA Certification
+- Contribute to Open Source
+
+---
+
+## 📫 Contact Me
+
+LinkedIn:
+www.linkedin.com/in/mohamed-ayman-2036413a5
+Email:
+ma1641379@gmail.com
