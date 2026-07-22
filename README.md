@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Mohamed Ayman
+<h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Developer;AI+%26+Data+Science+Enthusiast;CCNA+Student;Codeforces+Specialist" />
+</p>
 
 ## 👨‍💻 About Me
 
