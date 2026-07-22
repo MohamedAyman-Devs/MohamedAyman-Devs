@@ -16,21 +16,13 @@
 
 ## 🛠️ Languages & Tools
 
-- Python
-- C++
-- C
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- MySQL
-- Streamlit
-- Cisco Packet Tracer
-- Pandas
-- Scikit-learn
+## 🛠️ Languages & Tools
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,git,github,vscode,linux,arduino"/>
+
+</p>
 ---
 
 ## 📌 Current Goals
