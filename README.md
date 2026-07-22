@@ -8,10 +8,6 @@ Computer Science Student | Software Engineer in Progress | AI & Data Science Ent
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Competitive+Programmer;Codeforces+Specialist;Embedded+Systems+Developer;Artificial+Intelligence+Enthusiast;Building+Projects+Every+Day" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MohamedAyman-Devs&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
