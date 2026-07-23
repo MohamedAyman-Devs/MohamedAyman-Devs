@@ -121,5 +121,3 @@ Upcoming repositories will include:
 - 📧 **Email:** ma1641379@gmail.com
 
 ---
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
